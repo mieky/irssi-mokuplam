@@ -1,0 +1,6 @@
+A theme for irssi 0.8.9+ with right-indented nicknames.
+
+This theme truncates nicks at 9 characters, which might make it unusable in some networks/channels.
+If you know of a good way to set up network-independent indentation of nicks, please share!
+
+Usage: copy to ~/.irssi, then /set theme mokuplam
